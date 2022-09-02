@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juniorestevam
-- 👀 I’m interested in learning things news.
-- 🌱 I’m currently learning Analise and development sistems.
+- 👀 I’m interested in learning things new.
+- 🌱 I’m currently learning Analise and development of sistems.
 - 💞️ I’m looking to collaborate on teams.
 - 📫 Linkedin in perfil.
 
